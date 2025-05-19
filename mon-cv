@@ -148,7 +148,7 @@ footer {
   </main>
   <footer>
     <p>&copy; 2023 Ekoutou kolat</p>
-    <p><a href="https://GitHub/durant-kolat">durant-kolat</a></p>
-  </footer>
+<p><a href="https://github.com/durant-kolat">Mon répertoire GitHub</a></p>
+</footer>
 </body>
 </html>
